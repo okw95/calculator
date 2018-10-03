@@ -1,0 +1,18 @@
+{
+    "name": "okw/calculator",
+    "description": "plus",
+    "require": {},
+	"autoload": {
+		"psr-4": {
+			"App\\": "app/",
+			"okw\\calculator\\": "src"
+		}
+	},
+	"extra": {
+		"laravel": {
+			"providers": [
+				"okw\\calculator\\ServiceProvider"
+			]
+		}
+	}
+}
