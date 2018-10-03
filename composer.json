@@ -11,7 +11,7 @@
 	"extra": {
 		"laravel": {
 			"providers": [
-				"okw\\calculator\\ServiceProvider"
+				"okw\\calculator\\CalculatorServiceProvider"
 			]
 		}
 	}

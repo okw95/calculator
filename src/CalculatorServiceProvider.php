@@ -26,8 +26,6 @@ class CalculatorServiceProvider extends ServiceProvider
     public function register()
     {
         //
-		// $this->app->make('okw\calculator\Plus');
-		//Dynamically add IP2LocationLaravel alias
-		// AliasLoader::getInstance()->alias('Calculator', 'okw\calculator\Facade\Calculator');
+		
     }
 }
