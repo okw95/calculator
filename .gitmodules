@@ -1,0 +1,3 @@
+[submodule "svg-jvector-map-converter"]
+	path = svg-jvector-map-converter
+	url = https://github.com/okw95/svg-jvector-map-converter
